@@ -1,0 +1,20 @@
+{
+  "url": "http://quotes.toscrape.com/",
+  "scraped_at": "2025-11-07T22:44:39.911846",
+  "metadata": {
+    "title": null,
+    "description": null,
+    "keywords": null,
+    "author": null,
+    "og_title": null,
+    "og_description": null,
+    "og_image": null
+  },
+  "content": {
+    "headings": [],
+    "paragraphs": [],
+    "links": [],
+    "images": [],
+    "lists": []
+  }
+}

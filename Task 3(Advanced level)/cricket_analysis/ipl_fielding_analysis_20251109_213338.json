@@ -1,0 +1,106 @@
+{
+  "analysis_date": "2025-11-09T21:33:38.540561",
+  "weights": {
+    "WCP": 1,
+    "WGT": 1,
+    "WC": 1,
+    "WDC": -3,
+    "WST": 3,
+    "WRO": 3,
+    "WMRO": -2,
+    "WDH": 2
+  },
+  "players": [
+    {
+      "Player_Name": "Yash Dhull",
+      "CP": 3,
+      "GT": 1,
+      "C": 2,
+      "DC": 0,
+      "ST": 0,
+      "RO": 0,
+      "MRO": 0,
+      "DH": 0,
+      "RS": 3,
+      "PS": 9
+    },
+    {
+      "Player_Name": "Axer Patel",
+      "CP": 2,
+      "GT": 3,
+      "C": 1,
+      "DC": 0,
+      "ST": 0,
+      "RO": 1,
+      "MRO": 0,
+      "DH": 0,
+      "RS": 0,
+      "PS": 9
+    },
+    {
+      "Player_Name": "Aman Khan",
+      "CP": 4,
+      "GT": 1,
+      "C": 0,
+      "DC": 0,
+      "ST": 0,
+      "RO": 0,
+      "MRO": 0,
+      "DH": 1,
+      "RS": 1,
+      "PS": 8
+    },
+    {
+      "Player_Name": "Kuldeep yadav",
+      "CP": 3,
+      "GT": 0,
+      "C": 1,
+      "DC": 1,
+      "ST": 0,
+      "RO": 0,
+      "MRO": 0,
+      "DH": 1,
+      "RS": 4,
+      "PS": 7
+    },
+    {
+      "Player_Name": "Risee russouw",
+      "CP": 2,
+      "GT": 1,
+      "C": 1,
+      "DC": 0,
+      "ST": 0,
+      "RO": 0,
+      "MRO": 1,
+      "DH": 1,
+      "RS": 3,
+      "PS": 7
+    },
+    {
+      "Player_Name": "Lalit yadav",
+      "CP": 1,
+      "GT": 2,
+      "C": 1,
+      "DC": 0,
+      "ST": 0,
+      "RO": 0,
+      "MRO": 0,
+      "DH": 0,
+      "RS": -2,
+      "PS": 2
+    },
+    {
+      "Player_Name": "Phil Salt",
+      "CP": 1,
+      "GT": 2,
+      "C": 0,
+      "DC": 1,
+      "ST": 0,
+      "RO": 0,
+      "MRO": 0,
+      "DH": 0,
+      "RS": -1,
+      "PS": -1
+    }
+  ]
+}

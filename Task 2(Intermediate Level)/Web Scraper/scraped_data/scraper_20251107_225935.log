@@ -1,0 +1,5 @@
+2025-11-07 22:59:35,796 - WebScraperPro - INFO - WebScraperPro initialized for: http://quotes.toscrape.com/
+2025-11-07 22:59:35,797 - WebScraperPro - INFO - Starting comprehensive scrape of: http://quotes.toscrape.com/
+2025-11-07 22:59:36,662 - WebScraperPro - INFO - [OK] Successfully fetched: http://quotes.toscrape.com/
+2025-11-07 22:59:36,665 - WebScraperPro - INFO - [OK] Data exported to JSON: scraped_data\demo_data_20251107_225936.json
+2025-11-07 22:59:36,667 - WebScraperPro - INFO - [OK] Data exported to TXT: scraped_data\demo_report_20251107_225936.txt

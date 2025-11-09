@@ -1,0 +1,25 @@
+{
+  "target": "http://quotes.toscrape.com/",
+  "stats": {
+    "urls_crawled": 1,
+    "urls_found": 0,
+    "data_extracted": 1,
+    "errors": 0,
+    "start_time": "2025-11-07T22:56:45.731631",
+    "end_time": "2025-11-07T22:56:47.484328"
+  },
+  "data": [
+    {
+      "url": "http://quotes.toscrape.com/",
+      "title": null,
+      "headings": [],
+      "paragraphs": [],
+      "links": [],
+      "images": [],
+      "forms": [],
+      "scripts": [],
+      "meta": {},
+      "timestamp": "2025-11-07T22:56:46.483563"
+    }
+  ]
+}

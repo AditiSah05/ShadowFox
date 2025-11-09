@@ -1,0 +1,8 @@
+{
+  "target": "http://quotes.toscrape.com/",
+  "stats": {
+    "urls_crawled": 1,
+    "urls_found": 0,
+    "data_extracted": 1,
+    "errors": 0,
+    "start_time": 

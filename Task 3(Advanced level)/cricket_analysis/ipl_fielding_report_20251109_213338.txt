@@ -1,0 +1,68 @@
+================================================================================
+IPL FIELDING PERFORMANCE ANALYSIS REPORT
+ShadowFox Analytics
+Generated: 2025-11-09 21:33:38
+================================================================================
+
+PERFORMANCE SCORE FORMULA:
+--------------------------------------------------------------------------------
+PS = (CP×WCP) + (GT×WGT) + (C×WC) + (DC×WDC) + (ST×WST) +
+     (RO×WRO) + (MRO×WMRO) + (DH×WDH) + RS
+
+WEIGHTS:
+--------------------------------------------------------------------------------
+WCP: +1
+WGT: +1
+WC: +1
+WDC: -3
+WST: +3
+WRO: +3
+WMRO: -2
+WDH: +2
+
+PLAYER RANKINGS:
+--------------------------------------------------------------------------------
+
+1. Yash Dhull
+   Performance Score: 9
+   Catches: 2, Run Outs: 0, Direct Hits: 0
+   Runs Impact: +3
+
+2. Axer Patel
+   Performance Score: 9
+   Catches: 1, Run Outs: 1, Direct Hits: 0
+   Runs Impact: +0
+
+3. Aman Khan
+   Performance Score: 8
+   Catches: 0, Run Outs: 0, Direct Hits: 1
+   Runs Impact: +1
+
+4. Kuldeep yadav
+   Performance Score: 7
+   Catches: 1, Run Outs: 0, Direct Hits: 1
+   Runs Impact: +4
+
+5. Risee russouw
+   Performance Score: 7
+   Catches: 1, Run Outs: 0, Direct Hits: 1
+   Runs Impact: +3
+
+6. Lalit yadav
+   Performance Score: 2
+   Catches: 1, Run Outs: 0, Direct Hits: 0
+   Runs Impact: -2
+
+7. Phil Salt
+   Performance Score: -1
+   Catches: 0, Run Outs: 0, Direct Hits: 0
+   Runs Impact: -1
+
+================================================================================
+KEY INSIGHTS:
+--------------------------------------------------------------------------------
+• Best Performer: Yash Dhull (PS: 9)
+• Most Catches: Yash Dhull (2 catches)
+• Most Run Outs: Axer Patel (1 run outs)
+
+================================================================================

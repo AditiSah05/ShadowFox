@@ -1,0 +1,57 @@
+{
+  "analysis_date": "2025-11-09T21:23:13.974144",
+  "weights": {
+    "WCP": 4,
+    "WGT": 3,
+    "WC": 5,
+    "WDC": -3,
+    "WST": 4,
+    "WRO": 5,
+    "WMRO": -2,
+    "WDH": 3
+  },
+  "results": [
+    {
+      "Player_Name": "Virat Kohli",
+      "Total_Actions": 3,
+      "Clean_Picks": 3,
+      "Good_Throws": 0,
+      "Catches": 0,
+      "Dropped_Catches": 0,
+      "Stumpings": 0,
+      "Run_Outs": 3,
+      "Missed_Run_Outs": 0,
+      "Direct_Hits": 1,
+      "Runs_Impact": 1,
+      "Performance_Score": 31
+    },
+    {
+      "Player_Name": "Rohit Sharma",
+      "Total_Actions": 3,
+      "Clean_Picks": 1,
+      "Good_Throws": 3,
+      "Catches": 0,
+      "Dropped_Catches": 0,
+      "Stumpings": 3,
+      "Run_Outs": 0,
+      "Missed_Run_Outs": 0,
+      "Direct_Hits": 0,
+      "Runs_Impact": 3,
+      "Performance_Score": 28
+    },
+    {
+      "Player_Name": "Ravindra Jadeja",
+      "Total_Actions": 3,
+      "Clean_Picks": 1,
+      "Good_Throws": 1,
+      "Catches": 2,
+      "Dropped_Catches": 0,
+      "Stumpings": 1,
+      "Run_Outs": 0,
+      "Missed_Run_Outs": 0,
+      "Direct_Hits": 0,
+      "Runs_Impact": 3,
+      "Performance_Score": 24
+    }
+  ]
+}

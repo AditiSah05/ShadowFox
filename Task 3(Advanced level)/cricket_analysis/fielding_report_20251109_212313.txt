@@ -1,0 +1,51 @@
+================================================================================
+CRICKET FIELDING PERFORMANCE ANALYSIS REPORT
+ShadowFox Analytics
+Generated: 2025-11-09 21:23:13
+================================================================================
+
+PERFORMANCE SCORE FORMULA:
+--------------------------------------------------------------------------------
+PS = (CP×WCP) + (GT×WGT) + (C×WC) + (DC×WDC) + (ST×WST) +
+     (RO×WRO) + (MRO×WMRO) + (DH×WDH) + RS
+
+WEIGHTS:
+--------------------------------------------------------------------------------
+WCP: +4
+WGT: +3
+WC: +5
+WDC: -3
+WST: +4
+WRO: +5
+WMRO: -2
+WDH: +3
+
+PLAYER RANKINGS:
+--------------------------------------------------------------------------------
+
+1. Virat Kohli
+   Performance Score: 31.00
+   Total Actions: 3
+   Catches: 0, Run Outs: 3
+   Runs Impact: +1
+
+2. Rohit Sharma
+   Performance Score: 28.00
+   Total Actions: 3
+   Catches: 0, Run Outs: 0
+   Runs Impact: +3
+
+3. Ravindra Jadeja
+   Performance Score: 24.00
+   Total Actions: 3
+   Catches: 2, Run Outs: 0
+   Runs Impact: +3
+
+================================================================================
+KEY INSIGHTS:
+--------------------------------------------------------------------------------
+• Best Performer: Virat Kohli (PS: 31.00)
+• Most Catches: Ravindra Jadeja (2 catches)
+• Most Run Outs: Virat Kohli (3 run outs)
+
+================================================================================
