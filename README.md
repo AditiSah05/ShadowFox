@@ -1,4 +1,5 @@
-# ShadowFox
+                                                            # ShadowFox
+                                                            Task 2(Intermediate Level)/Web Scraper/image.png
 
 ShadowFox is a Python-based project designed to help users learn and enhance their programming skills through a series of tasks and challenges. The project is structured into three levels of difficulty: Beginner, Intermediate, and Advanced.
 
