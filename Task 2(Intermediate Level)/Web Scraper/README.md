@@ -272,4 +272,4 @@ This tool is for educational purposes only. Always ensure you have permission to
 
 ---
 
-**Made with ❤️ by ShadowFox Development Team**
+**Made with ❤️ by Aditi Sah(ShadowFox Development Team)**
